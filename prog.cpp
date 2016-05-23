@@ -6,6 +6,7 @@ int input(){ //input
 	cout<<"Enter Number";
 	cin>>n;
 	return n;
+
 }
 void print(int n){	//output
 	cout<<n<<endl;
